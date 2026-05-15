@@ -57,7 +57,7 @@ yuvaraj = {
 
 **Status:** ✅ Complete
 
-[View Repo →](https://github.com/Yuvaraj0739X/Adaptive-Multi-Specialist-Ensemble-for-Enhanced-Thyroid-Disease-Diagnosis)
+[View Repo →](https://github.com/Yuvaraj0739X/Adaptive-Multi-Specialist-Ensemble-for-thyroid-disease-diagnosis.git)
 
 </td>
 </tr>
