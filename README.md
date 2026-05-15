@@ -71,7 +71,7 @@ yuvaraj = {
 
 **Status:** ✅ Patented (2025)
 
-[View Repo →](https://github.com/Yuvaraj0739X/Ocean-Tracking-System-Patent)
+[View Repo →](https://github.com/Yuvaraj0739X/Ocean-Guide-Master-Patent.git)
 
 </td>
 <td width="50%">
